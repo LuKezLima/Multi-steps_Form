@@ -11,7 +11,7 @@ export const Resume = () =>{
     const { state, dispatch } = useForm();
 
     useEffect( ()=>{
-        if(state.name === ''){
+        if(state.github === ''){
             history('/')
         }else{
         dispatch({

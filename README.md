@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with:
+- React
+- Typescript
+- Context API (REACT)
+- Styled-components
+
+
+
+![alt text](https://i.imgur.com/yRUNEZX.png)
 
 ## Available Scripts
 
